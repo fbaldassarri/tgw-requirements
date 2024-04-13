@@ -1,14 +1,17 @@
 # oobabooga/text-generation-webui requirements for PIP and conda
 
+requirements.txt for PIP and conda to recreate virtual environments for the following releases of oobabooga/text-generation-webui
+
 **Releases:**
 
-tgw-2024-02-04
-tgw-2024-02-18
-tgw-2024-02-25
-tgw-2024-03-03
-tgw-2024-03-10
-tgw-2024-03-17
-tgw-2024-03-24
-tgw-2024-03-31
-tgw-2024-04-07
+- [tgw-2024-02-04](https://github.com/oobabooga/text-generation-webui/releases/tag/snapshot-2024-02-04)
+- [tgw-2024-02-18](https://github.com/oobabooga/text-generation-webui/releases/tag/snapshot-2024-02-18)
+- [tgw-2024-02-25](https://github.com/oobabooga/text-generation-webui/releases/tag/snapshot-2024-02-25)
+- [tgw-2024-03-03](https://github.com/oobabooga/text-generation-webui/releases/tag/snapshot-2024-03-03)
+- [tgw-2024-03-10](https://github.com/oobabooga/text-generation-webui/releases/tag/snapshot-2024-03-10)
+- [tgw-2024-03-17](https://github.com/oobabooga/text-generation-webui/releases/tag/snapshot-2024-03-17)
+- [tgw-2024-03-24](https://github.com/oobabooga/text-generation-webui/releases/tag/snapshot-2024-03-24)
+- [tgw-2024-03-31](https://github.com/oobabooga/text-generation-webui/releases/tag/snapshot-2024-03-31)
+- [tgw-2024-04-07](https://github.com/oobabooga/text-generation-webui/releases/tag/snapshot-2024-04-07)
 
+Note: NVIDIA/Cuda enabled
