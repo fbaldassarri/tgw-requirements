@@ -16,6 +16,7 @@ requirements.txt for PIP and conda to recreate virtual environments for the foll
 - [tgw-2024-04-14](https://github.com/oobabooga/text-generation-webui/releases/tag/snapshot-2024-04-14)
 - [tgw-2024-04-21](https://github.com/oobabooga/text-generation-webui/releases/tag/snapshot-2024-04-21)
 - [tgw-2024-04-28](https://github.com/oobabooga/text-generation-webui/releases/tag/snapshot-2024-04-28)
+- [tgw-v1.8](https://github.com/oobabooga/text-generation-webui/releases/tag/v1.8)
 
 Note: NVIDIA/Cuda enabled
 
